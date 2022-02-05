@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GameMaker Studio 2**
 
-- 🤝 I’m looking for help with **Perspective effect for GameMaker Studio 2**
-
 - 👨‍💻 All of my projects are available at [https://gamejolt.com/@Rushan/games](https://gamejolt.com/@Rushan/games)
 
 <h3 align="left">Connect with me:</h3>
