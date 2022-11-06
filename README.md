@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushan</h1>
 <h3 align="center">A developer from Russia, working on Android ports of FNaF fangames, English and Russian localization of games and his own games</h3>
 
-- 🔭 I’m currently working on [ELLIE'S Android version](https://gamejolt.com/games/ellies/319530)
-
 - 🌱 I’m currently learning **GameMaker Studio 2**
-
-- 👨‍💻 All of my projects are available at [https://gamejolt.com/@Rushan/games](https://gamejolt.com/@Rushan/games)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
