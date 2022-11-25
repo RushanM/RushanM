@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushan</h1>
 <h3 align="center">A developer from Russia, working on Android ports of FNaF fangames, English and Russian localization of games and his own games</h3>
 
-- 🌱 I’m currently learning **GameMaker Studio 2**
+- 🌱 I’m currently learning **GameMaker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
