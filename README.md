@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rushan</h1>
-<h3 align="center">A developer from Russia, working on Android ports of FNaF fangames, English and Russian localization of games and his own games</h3>
-
-- 🌱 I’m currently learning **GameMaker**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/r_mukhutdinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_mukhutdinov" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+Меня зовут Рушан Мухутдинов. Мне 20—21 лет. Я:
+* Студент ВУЗа;
+* Непрофессиональный англо-русско-татарский переводчик;
+* Android-портировщик игр, разработанных на Clickteam Fusion 2.5;
+* Пока не проявивший себя разработчик игр.
+<div align="center">
+<a href="https://play.google.com/store/apps/dev?id=7602733918009439849"><img alt="google-play" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/google-play_vector.svg"></a> <a href="https://www.curseforge.com/members/rushan4444"><img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg"></a> <a href="https://modrinth.com/user/RushanM"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg"></a> <a href="https://soundcloud.com/vdogoimmi33b"><img alt="soundcloud" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/soundcloud_vector.svg"></a> <a href="https://steamcommunity.com/id/rushanm"><img alt="steam" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/steam_vector.svg"></a>
+</div>
