@@ -9,7 +9,7 @@
 * начинающий художник
 * (в прошлом) бюрократ нескольких вики на Фэндоме и Мирахезе
 * (в прошлом) ютубер
-* 
+
 <div align="center">
   <a href="https://play.google.com/store/apps/dev?id=7602733918009439849"><img alt="google-play"
                                                                                height="56"
