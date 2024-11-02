@@ -15,8 +15,11 @@
 
 ## Проекты
 
-Вот некоторые из проектов, над которыми я работал:
+<details>
+	<summary>Раскрой меня</summary>
+<br>
 
+Вот некоторые из проектов, над которыми я работал:
 * [Русский перевод модификаций Minecraft](https://github.com/RushanM/Minecraft-Mods-Russian-Translation) — проект по переводу, которым я занимаюсь с 2020 ради улучшения ситуации с переводом модификаций (модов, сборок модов, наборов шейдеров и так далее) Minecraft на русский;
 * [Форк Фелинофикации](https://modrinth.com/resourcepack/felineification-fork) — изменённая мной версия набора ресурсов для Minecraft [Felineification 16x](https://modrinth.com/resourcepack/felineification-16x), добавляющая поддержку модов;
 * [Android-версии игр серии The Return to Freddy's](https://gamejolt.com/games/trtfandroid/131061) — официальные Android-версии игр [The Return to Freddy's](https://the-return-to-freddy-s.fandom.com/ru/wiki/The_Return_to_Freddy%27s_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)) от [BFPFilms424](https://the-return-to-freddy-s.fandom.com/ru/wiki/%D0%90%D0%BB%D1%8C%D1%81%D1%82%D1%80%D1%91%D0%BC,_%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80), над портированием которых мне довелось поработать ещё в 2015;
@@ -25,6 +28,7 @@
 * [Летающий Виго](https://play.google.com/store/apps/details?id=com.superkotyacatgames.flappyvigo) — фанатская игра по [Vigo's Adventure: Insanity](https://gamejolt.com/games/vigoparoxysm/87792), совмещающая её элементы с Flappy Bird в своём индивидуальном стиле и особенностями;
 * [Классное приключение Глеба!](https://gamejolt.com/games/gca/179455) — игра про чудное приключение [@GKProduction](https://github.com/GKProduction).
 
+</details>
 <div align="center">
     <a href="https://play.google.com/store/apps/dev?id=7602733918009439849"><img alt="google-play" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/google-play_vector.svg"></a>
     <a href="https://vk.com/deflecta"><img alt="vk" height="56" src="vk.svg"></a> <a href="https://vk.com/deflcomm"><img alt="vk-donut" height="56" src="vkd.svg"></a>
