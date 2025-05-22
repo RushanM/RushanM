@@ -25,7 +25,7 @@
 * [Android-версии игр серии The Return to Freddy's](https://gamejolt.com/games/trtfandroid/131061) — официальные Android-версии игр [The Return to Freddy's](https://the-return-to-freddy-s.fandom.com/ru/wiki/The_Return_to_Freddy%27s_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)) от [BFPFilms424](https://the-return-to-freddy-s.fandom.com/ru/wiki/%D0%90%D0%BB%D1%8C%D1%81%D1%82%D1%80%D1%91%D0%BC,_%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80), над портированием которых мне довелось поработать ещё в 2015;
 * [Русский язык для Clickteam Fusion 2.5](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language/) — русский язык для игрового движка Clickteam Fusion 2.5, разрабатываемый совместно с [@GKProduction](https://github.com/GKProduction);
 * [Пять ночей с Барсиком](https://github.com/RushanM/Five-Nights-with-Barsik) — хоррор-игра (и серия игр) про кровожадных кошек и игрушек, вдохновлённая Five Nights at Freddy's;
-* [Летающий Виго](https://play.google.com/store/apps/details?id=com.superkotyacatgames.flappyvigo) — фанатская игра по [Vigo's Adventure: Insanity](https://gamejolt.com/games/vigoparoxysm/87792), совмещающая её элементы с Flappy Bird в своём индивидуальном стиле и особенностями;
+* [Порхающий Виго](https://play.google.com/store/apps/details?id=com.superkotyacatgames.flappyvigo) — фанатская игра по [Vigo's Adventure: Insanity](https://gamejolt.com/games/vigoparoxysm/87792), совмещающая её элементы с Flappy Bird в своём индивидуальном стиле и особенностями;
 * [Классное приключение Глеба!](https://gamejolt.com/games/gca/179455) — игра про чудное приключение [@GKProduction](https://github.com/GKProduction).
 
 </details>
